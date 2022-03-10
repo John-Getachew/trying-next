@@ -16,8 +16,19 @@
 
 1. Table
 
-- Information provided by me
-  1. Column
+1. Columns
+   First Name
+   Last Name
+   Gender
+   Phone Number
+   Email
+   Age
+   City
+   Education Level
+   Work
+   Participated Before
+   Passed
+
 - Requirements to handle for hannah and naomi
   1. A basic table
   2. Searching, filtering, and sorting
