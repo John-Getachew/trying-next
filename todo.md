@@ -14,7 +14,7 @@
 
 # To do for Hanna and Naomi
 
-1. Table
+1. Table (done)
 
 1. Columns
    First Name
